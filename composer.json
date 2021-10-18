@@ -1,0 +1,6 @@
+{
+    "name": "wilder/compo-q2",
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
